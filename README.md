@@ -48,6 +48,11 @@ Things you may want to cover:
 * - create 2 articles to display
 * - list the two articles
 * - expect both article titles and bodies to be present
+* 
+      Show article feature test
+* - create branch
+* - create 1 article to display
+* - show the article title and details
 
 
 
