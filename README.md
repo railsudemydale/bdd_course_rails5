@@ -83,6 +83,15 @@ Steps:
 *- Hide the "Edit" and "Delete" buttons from non-owners of the article
 *- Permit the owners to edit or delete their own articles.
 
+Homework: Do the same restrict access (controller) for delete
+
+Please paste your code or your github repo
+
+Comments features
+-create a topic branch
+- spec
+- building the functionality
+
 
 
 
